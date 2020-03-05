@@ -1,7 +1,7 @@
 * 首页
   * [介绍](vcc/read.md)
 * server
-  * [server](server/server.md)
+  * [nginx](server/nginx.md)
 * iOS
   - [Router](ios/router.md)
 
