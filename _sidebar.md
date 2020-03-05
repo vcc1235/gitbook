@@ -3,6 +3,6 @@
 * 服务器
   * [server](server/server.md)
 * iOS
-  * [xcode](server)
+  * [xcode](server/navbar.md)
     - [ins](server/server)
 
