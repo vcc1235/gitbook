@@ -4,5 +4,5 @@
   * [server](server/server.md)
 * iOS
   * [xcode](server)
-    * [ins](server/server)
+    - [ins](server/server)
 
