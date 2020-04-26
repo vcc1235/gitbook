@@ -1,0 +1,143 @@
+{
+    "gitbook": "3.2.3",
+    "title": "Alete",
+    "description": "https://xalete.com/",
+    "author": "vcc",
+    "language": "zh-hans",
+    "links":
+    {
+        "sidebar":
+        {
+            "Alete开发": "http://github.com/vcc1235"
+        }
+    },
+    "styles":
+    {
+        "website": "style/website.css"
+    },
+    "plugins": [
+        "github",
+        "-sharing",
+        "donate",
+        "sharing-plus",
+        "hide-element",
+        "chapter-fold",
+        "fontsettings",
+        "splitter",
+        "-lunr",
+        "code",
+        "-search",
+        "search-pro",
+        "pageview-count",
+        "tbfed-pagefooter",
+        "highlight"
+
+
+    ],
+    "pluginsConfig":
+    {
+
+        "chapter-fold":
+        {},
+        "splitter":
+        {},
+        "tbfed-pagefooter":
+        {
+            "copyright": "Copyright &copy xalete.com 2019",
+            "modify_label": "modfiy time",
+            "modify_format": "YYYY-MM-DD"
+        },
+        "github-buttons":
+        {
+            "repo": "vcc1235/Router",
+            "types": [
+                "star",
+                "watch",
+                "fork"
+            ],
+            "size": "small"
+        },
+        "hide-element":
+        {
+            "elements": [".gitbook-link"]
+        },
+        "sharing":
+        {
+            "douban": false,
+            "facebook": false,
+            "google": false,
+            "hatenaBookmark": false,
+            "instapaper": false,
+            "line": false,
+            "linkedin": false,
+            "messenger": false,
+            "pocket": false,
+            "qq": false,
+            "qzone": false,
+            "stumbleupon": false,
+            "twitter": false,
+            "viber": false,
+            "vk": false,
+            "weibo": false,
+            "whatsapp": false,
+            "all": [
+                "weibo", "qq", "qzone", "google", "douban"
+            ]
+        },
+        "fontsettings":
+        {
+            "theme": "white",
+            "family": "sans",
+            "size": "2"
+        },
+        "disqus":
+        {
+            "shortName": "Alete"
+        },
+        "github":
+        {
+            "url": "https://github.com/vcc1235"
+        },
+        "donate":
+        {
+            "wechat": "http://img.xalete.com/vcc/wechat.png",
+            "alipay": "http://img.xalete.com/vcc/alipay.png",
+            "title": "",
+            "button": "打赏",
+            "wechatText": "微信打赏"
+        },
+        "anchor-navigation-ex":
+        {
+            "associatedWithSummary": false,
+            "showLevel": true,
+            "multipleH1": true,
+            "mode": "float",
+
+            "pageTop":
+            {
+                "showLevelIcon": false,
+                "level1Icon": "fa fa-hand-o-right",
+                "level2Icon": "fa fa-hand-o-right",
+                "level3Icon": "fa fa-hand-o-right"
+            }
+        },
+        "theme-default":
+        {
+            "showLevel": true
+        },
+        "fontsettings":
+        {
+            "theme": "white",
+            "family": "sans",
+            "font-size": "15px",
+            "size": 2
+        },
+        "prism":
+        {
+            "css": [
+                "prism-themes/themes/prism-base16-ateliersulphurpool.light.css"
+            ]
+        }
+    }
+
+}
