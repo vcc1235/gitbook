@@ -1,0 +1,18 @@
+b{
+	display: none;
+}
+.markdown-section *:{
+	font-size:15px !important;
+}
+
+.gitbook-link{
+    display: none !important;
+}
+
+
+pre[class*="language-"] {
+    border: none;
+    background-color: #f7f7f7;
+    font-size: 1em;
+    line-height: 1.2em;
+}
