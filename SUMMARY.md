@@ -15,7 +15,8 @@
 
 - [Java](html/Java/java.md)
 
-  - [maven](html/Java/maven.md)
+  - [mysql](html/Java/mysql/xcc-mysql.md)
+  - [docker](html/java/docker.md)
 
 - [服务器](html/Server/server.md)
 

@@ -26,3 +26,8 @@ wget -c http://mirrors.linuxeye.com/oneinstack-full.tar.gz && tar xzf oneinstack
 ## 执行完会出现对应的安装选择
 ~~~
 
+``` sh
+
+
+```
+
